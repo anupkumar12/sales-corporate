@@ -17,10 +17,8 @@
         <number_ref display_value="SAL">2cfb35eadb8c1700a49f7d9ebf96192a</number_ref>
         <provider_class/>
         <read_access>true</read_access>
-        <super_class display_value="Task" name="task">2a3cf442db312200a49f3d9ebf9619c6</super_class>
-        <sys_class_code/>
+        <super_class display_value="Task" name="task">db5b20720f20020031accd8ce1050eb9</super_class>
         <sys_class_name>sys_db_object</sys_class_name>
-        <sys_class_path/>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-02-06 01:51:19</sys_created_on>
         <sys_customer_update>false</sys_customer_update>

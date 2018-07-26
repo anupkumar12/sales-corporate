@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element extends="task" label="Sales corporate Table" max_length="40" name="x_74128_sales_corp_sales_corporate_table" sizeclass="1" type="collection"/>
+    <element extends="task" label="Sales corporate Table" max_length="40" name="x_74128_sales_corp_sales_corporate_table" type="collection"/>
 </database>
